@@ -1,0 +1,7 @@
+D:\Programming\C#\Ptb_2\Ptb_2\bin\Debug\Ptb_2.exe.config
+D:\Programming\C#\Ptb_2\Ptb_2\bin\Debug\Ptb_2.exe
+D:\Programming\C#\Ptb_2\Ptb_2\bin\Debug\Ptb_2.pdb
+D:\Programming\C#\Ptb_2\Ptb_2\obj\Debug\Ptb_2.csproj.AssemblyReference.cache
+D:\Programming\C#\Ptb_2\Ptb_2\obj\Debug\Ptb_2.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Ptb_2\Ptb_2\obj\Debug\Ptb_2.exe
+D:\Programming\C#\Ptb_2\Ptb_2\obj\Debug\Ptb_2.pdb

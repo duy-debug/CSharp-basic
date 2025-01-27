@@ -1,0 +1,16 @@
+D:\Programming\C#\TinhTongWin\TinhTongWin\bin\Debug\net8.0-windows\TinhTongWin.exe
+D:\Programming\C#\TinhTongWin\TinhTongWin\bin\Debug\net8.0-windows\TinhTongWin.deps.json
+D:\Programming\C#\TinhTongWin\TinhTongWin\bin\Debug\net8.0-windows\TinhTongWin.runtimeconfig.json
+D:\Programming\C#\TinhTongWin\TinhTongWin\bin\Debug\net8.0-windows\TinhTongWin.dll
+D:\Programming\C#\TinhTongWin\TinhTongWin\bin\Debug\net8.0-windows\TinhTongWin.pdb
+D:\Programming\C#\TinhTongWin\TinhTongWin\obj\Debug\net8.0-windows\TinhTongWin.Form1.resources
+D:\Programming\C#\TinhTongWin\TinhTongWin\obj\Debug\net8.0-windows\TinhTongWin.csproj.GenerateResource.cache
+D:\Programming\C#\TinhTongWin\TinhTongWin\obj\Debug\net8.0-windows\TinhTongWin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\TinhTongWin\TinhTongWin\obj\Debug\net8.0-windows\TinhTongWin.AssemblyInfoInputs.cache
+D:\Programming\C#\TinhTongWin\TinhTongWin\obj\Debug\net8.0-windows\TinhTongWin.AssemblyInfo.cs
+D:\Programming\C#\TinhTongWin\TinhTongWin\obj\Debug\net8.0-windows\TinhTongWin.csproj.CoreCompileInputs.cache
+D:\Programming\C#\TinhTongWin\TinhTongWin\obj\Debug\net8.0-windows\TinhTongWin.dll
+D:\Programming\C#\TinhTongWin\TinhTongWin\obj\Debug\net8.0-windows\refint\TinhTongWin.dll
+D:\Programming\C#\TinhTongWin\TinhTongWin\obj\Debug\net8.0-windows\TinhTongWin.pdb
+D:\Programming\C#\TinhTongWin\TinhTongWin\obj\Debug\net8.0-windows\TinhTongWin.genruntimeconfig.cache
+D:\Programming\C#\TinhTongWin\TinhTongWin\obj\Debug\net8.0-windows\ref\TinhTongWin.dll

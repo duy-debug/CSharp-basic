@@ -1,0 +1,16 @@
+D:\Programming\C#\Xinchao\Xinchao\bin\Debug\net8.0-windows\Xinchao.exe
+D:\Programming\C#\Xinchao\Xinchao\bin\Debug\net8.0-windows\Xinchao.deps.json
+D:\Programming\C#\Xinchao\Xinchao\bin\Debug\net8.0-windows\Xinchao.runtimeconfig.json
+D:\Programming\C#\Xinchao\Xinchao\bin\Debug\net8.0-windows\Xinchao.dll
+D:\Programming\C#\Xinchao\Xinchao\bin\Debug\net8.0-windows\Xinchao.pdb
+D:\Programming\C#\Xinchao\Xinchao\obj\Debug\net8.0-windows\Xinchao.Form1.resources
+D:\Programming\C#\Xinchao\Xinchao\obj\Debug\net8.0-windows\Xinchao.csproj.GenerateResource.cache
+D:\Programming\C#\Xinchao\Xinchao\obj\Debug\net8.0-windows\Xinchao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Xinchao\Xinchao\obj\Debug\net8.0-windows\Xinchao.AssemblyInfoInputs.cache
+D:\Programming\C#\Xinchao\Xinchao\obj\Debug\net8.0-windows\Xinchao.AssemblyInfo.cs
+D:\Programming\C#\Xinchao\Xinchao\obj\Debug\net8.0-windows\Xinchao.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Xinchao\Xinchao\obj\Debug\net8.0-windows\Xinchao.dll
+D:\Programming\C#\Xinchao\Xinchao\obj\Debug\net8.0-windows\refint\Xinchao.dll
+D:\Programming\C#\Xinchao\Xinchao\obj\Debug\net8.0-windows\Xinchao.pdb
+D:\Programming\C#\Xinchao\Xinchao\obj\Debug\net8.0-windows\Xinchao.genruntimeconfig.cache
+D:\Programming\C#\Xinchao\Xinchao\obj\Debug\net8.0-windows\ref\Xinchao.dll

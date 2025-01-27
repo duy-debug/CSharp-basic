@@ -1,0 +1,10 @@
+D:\Programming\C#\splitcontairner\splitcontairner\bin\Debug\splitcontairner.exe.config
+D:\Programming\C#\splitcontairner\splitcontairner\bin\Debug\splitcontairner.exe
+D:\Programming\C#\splitcontairner\splitcontairner\bin\Debug\splitcontairner.pdb
+D:\Programming\C#\splitcontairner\splitcontairner\obj\Debug\splitcontairner.csproj.AssemblyReference.cache
+D:\Programming\C#\splitcontairner\splitcontairner\obj\Debug\splitcontairner.Form1.resources
+D:\Programming\C#\splitcontairner\splitcontairner\obj\Debug\splitcontairner.Properties.Resources.resources
+D:\Programming\C#\splitcontairner\splitcontairner\obj\Debug\splitcontairner.csproj.GenerateResource.cache
+D:\Programming\C#\splitcontairner\splitcontairner\obj\Debug\splitcontairner.csproj.CoreCompileInputs.cache
+D:\Programming\C#\splitcontairner\splitcontairner\obj\Debug\splitcontairner.exe
+D:\Programming\C#\splitcontairner\splitcontairner\obj\Debug\splitcontairner.pdb

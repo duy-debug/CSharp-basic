@@ -1,0 +1,7 @@
+D:\Programming\C#\sinhsongaunhien\sinhsongaunhien\bin\Debug\sinhsongaunhien.exe.config
+D:\Programming\C#\sinhsongaunhien\sinhsongaunhien\bin\Debug\sinhsongaunhien.exe
+D:\Programming\C#\sinhsongaunhien\sinhsongaunhien\bin\Debug\sinhsongaunhien.pdb
+D:\Programming\C#\sinhsongaunhien\sinhsongaunhien\obj\Debug\sinhsongaunhien.csproj.AssemblyReference.cache
+D:\Programming\C#\sinhsongaunhien\sinhsongaunhien\obj\Debug\sinhsongaunhien.csproj.CoreCompileInputs.cache
+D:\Programming\C#\sinhsongaunhien\sinhsongaunhien\obj\Debug\sinhsongaunhien.exe
+D:\Programming\C#\sinhsongaunhien\sinhsongaunhien\obj\Debug\sinhsongaunhien.pdb

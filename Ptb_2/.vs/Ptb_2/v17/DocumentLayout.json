@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C#\\Ptb_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51EE470F-3785-42A8-A772-D141A1CCE318}|Ptb_2\\Ptb_2.csproj|d:\\programming\\c#\\ptb_2\\ptb_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EE470F-3785-42A8-A772-D141A1CCE318}|Ptb_2\\Ptb_2.csproj|solutionrelative:ptb_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\Ptb_2\\Ptb_2\\Program.cs",
+              "RelativeDocumentMoniker": "Ptb_2\\Program.cs",
+              "ToolTip": "D:\\Programming\\C#\\Ptb_2\\Ptb_2\\Program.cs",
+              "RelativeToolTip": "Ptb_2\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:25:22.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C#\\QuanLyNhanVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE879AC-4028-4DC1-B0CC-59B900EFD929}|QuanLyNhanVien\\QuanLyNhanVien.csproj|d:\\programming\\c#\\quanlynhanvien\\quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE879AC-4028-4DC1-B0CC-59B900EFD929}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE879AC-4028-4DC1-B0CC-59B900EFD929}|QuanLyNhanVien\\QuanLyNhanVien.csproj|D:\\Programming\\C#\\QuanLyNhanVien\\quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE879AC-4028-4DC1-B0CC-59B900EFD929}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Form1.cs",
+              "ToolTip": "D:\\Programming\\C#\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs*",
+              "RelativeToolTip": "QuanLyNhanVien\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:48:57.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\C#\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Form1.cs",
+              "ToolTip": "D:\\Programming\\C#\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs [Design]*",
+              "RelativeToolTip": "QuanLyNhanVien\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T05:15:58.951Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

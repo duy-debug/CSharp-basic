@@ -1,0 +1,7 @@
+D:\Programming\C#\Kiemtra_Namnhuan\Kiemtra_Namnhuan\bin\Debug\Kiemtra_Namnhuan.exe.config
+D:\Programming\C#\Kiemtra_Namnhuan\Kiemtra_Namnhuan\bin\Debug\Kiemtra_Namnhuan.exe
+D:\Programming\C#\Kiemtra_Namnhuan\Kiemtra_Namnhuan\bin\Debug\Kiemtra_Namnhuan.pdb
+D:\Programming\C#\Kiemtra_Namnhuan\Kiemtra_Namnhuan\obj\Debug\Kiemtra_Namnhuan.csproj.AssemblyReference.cache
+D:\Programming\C#\Kiemtra_Namnhuan\Kiemtra_Namnhuan\obj\Debug\Kiemtra_Namnhuan.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Kiemtra_Namnhuan\Kiemtra_Namnhuan\obj\Debug\Kiemtra_Namnhuan.exe
+D:\Programming\C#\Kiemtra_Namnhuan\Kiemtra_Namnhuan\obj\Debug\Kiemtra_Namnhuan.pdb

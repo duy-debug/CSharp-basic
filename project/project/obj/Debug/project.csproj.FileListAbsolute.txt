@@ -1,0 +1,13 @@
+D:\Programming\C#\project\project\bin\Debug\project.exe.config
+D:\Programming\C#\project\project\bin\Debug\project.exe
+D:\Programming\C#\project\project\bin\Debug\project.pdb
+D:\Programming\C#\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\Programming\C#\project\project\obj\Debug\project.login.resources
+D:\Programming\C#\project\project\obj\Debug\project.Properties.Resources.resources
+D:\Programming\C#\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Programming\C#\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Programming\C#\project\project\obj\Debug\project.exe
+D:\Programming\C#\project\project\obj\Debug\project.pdb
+D:\Programming\C#\project\project\obj\Debug\project.TableManager.resources
+D:\Programming\C#\project\project\obj\Debug\project.AccountProfile.resources
+D:\Programming\C#\project\project\obj\Debug\project.Admin.resources

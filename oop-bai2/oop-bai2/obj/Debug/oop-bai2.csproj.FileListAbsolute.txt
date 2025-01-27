@@ -1,0 +1,7 @@
+D:\Programming\C#\oop-bai2\oop-bai2\bin\Debug\oop-bai2.exe.config
+D:\Programming\C#\oop-bai2\oop-bai2\bin\Debug\oop-bai2.exe
+D:\Programming\C#\oop-bai2\oop-bai2\bin\Debug\oop-bai2.pdb
+D:\Programming\C#\oop-bai2\oop-bai2\obj\Debug\oop-bai2.csproj.AssemblyReference.cache
+D:\Programming\C#\oop-bai2\oop-bai2\obj\Debug\oop-bai2.csproj.CoreCompileInputs.cache
+D:\Programming\C#\oop-bai2\oop-bai2\obj\Debug\oop-bai2.exe
+D:\Programming\C#\oop-bai2\oop-bai2\obj\Debug\oop-bai2.pdb
