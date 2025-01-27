@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programming\\C#\\data_type\\",
+  "WorkspaceRootPath": "D:\\Programming\\CSharp-basic\\data_type\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A88E4456-BCBB-4573-9F71-472E3397C301}|data_type\\data_type.csproj|d:\\programming\\c#\\data_type\\data_type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A88E4456-BCBB-4573-9F71-472E3397C301}|data_type\\data_type.csproj|d:\\programming\\csharp-basic\\data_type\\data_type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A88E4456-BCBB-4573-9F71-472E3397C301}|data_type\\data_type.csproj|solutionrelative:data_type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,17 +18,17 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\C#\\data_type\\data_type\\Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\data_type\\data_type\\Program.cs",
               "RelativeDocumentMoniker": "data_type\\Program.cs",
-              "ToolTip": "D:\\Programming\\C#\\data_type\\data_type\\Program.cs",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\data_type\\data_type\\Program.cs",
               "RelativeToolTip": "data_type\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T07:47:12.566Z",
               "EditorCaption": ""
