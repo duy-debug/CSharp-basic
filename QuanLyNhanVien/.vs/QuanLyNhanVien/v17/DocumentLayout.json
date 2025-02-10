@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programming\\C#\\QuanLyNhanVien\\",
+  "WorkspaceRootPath": "D:\\Programming\\CSharp-basic\\QuanLyNhanVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEE879AC-4028-4DC1-B0CC-59B900EFD929}|QuanLyNhanVien\\QuanLyNhanVien.csproj|d:\\programming\\c#\\quanlynhanvien\\quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEE879AC-4028-4DC1-B0CC-59B900EFD929}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEE879AC-4028-4DC1-B0CC-59B900EFD929}|QuanLyNhanVien\\QuanLyNhanVien.csproj|d:\\programming\\csharp-basic\\quanlynhanvien\\quanlynhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE879AC-4028-4DC1-B0CC-59B900EFD929}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEE879AC-4028-4DC1-B0CC-59B900EFD929}|QuanLyNhanVien\\QuanLyNhanVien.csproj|D:\\Programming\\C#\\QuanLyNhanVien\\quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEE879AC-4028-4DC1-B0CC-59B900EFD929}|QuanLyNhanVien\\QuanLyNhanVien.csproj|d:\\programming\\csharp-basic\\quanlynhanvien\\quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEE879AC-4028-4DC1-B0CC-59B900EFD929}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE879AC-4028-4DC1-B0CC-59B900EFD929}|QuanLyNhanVien\\QuanLyNhanVien.csproj|d:\\programming\\csharp-basic\\quanlynhanvien\\quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE879AC-4028-4DC1-B0CC-59B900EFD929}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Programming\\C#\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs",
-              "RelativeDocumentMoniker": "QuanLyNhanVien\\Form1.cs",
-              "ToolTip": "D:\\Programming\\C#\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs*",
-              "RelativeToolTip": "QuanLyNhanVien\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T08:48:57.063Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\QuanLyNhanVien\\QuanLyNhanVien\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Program.cs",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\QuanLyNhanVien\\QuanLyNhanVien\\Program.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T04:47:28.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Form1.cs",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:48:57.063Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\C#\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs",
               "RelativeDocumentMoniker": "QuanLyNhanVien\\Form1.cs",
-              "ToolTip": "D:\\Programming\\C#\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs [Design]*",
-              "RelativeToolTip": "QuanLyNhanVien\\Form1.cs [Design]*",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVien\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T05:15:58.951Z",
               "EditorCaption": " [Design]"

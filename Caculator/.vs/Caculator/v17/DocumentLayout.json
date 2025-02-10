@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programming\\C#\\Caculator\\",
+  "WorkspaceRootPath": "D:\\Programming\\CSharp-basic\\Caculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01D41B9D-D77B-4779-A78A-1AEEB7B42410}|Caculator\\Caculator.csproj|d:\\programming\\c#\\caculator\\caculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D41B9D-D77B-4779-A78A-1AEEB7B42410}|Caculator\\Caculator.csproj|solutionrelative:caculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01D41B9D-D77B-4779-A78A-1AEEB7B42410}|Caculator\\Caculator.csproj|d:\\programming\\csharp-basic\\caculator\\caculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D41B9D-D77B-4779-A78A-1AEEB7B42410}|Caculator\\Caculator.csproj|solutionrelative:caculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D41B9D-D77B-4779-A78A-1AEEB7B42410}|Caculator\\Caculator.csproj|d:\\programming\\c#\\caculator\\caculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D41B9D-D77B-4779-A78A-1AEEB7B42410}|Caculator\\Caculator.csproj|solutionrelative:caculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{01D41B9D-D77B-4779-A78A-1AEEB7B42410}|Caculator\\Caculator.csproj|d:\\programming\\csharp-basic\\caculator\\caculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D41B9D-D77B-4779-A78A-1AEEB7B42410}|Caculator\\Caculator.csproj|solutionrelative:caculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,22 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Programming\\C#\\Caculator\\Caculator\\Form1.cs",
-              "RelativeDocumentMoniker": "Caculator\\Form1.cs",
-              "ToolTip": "D:\\Programming\\C#\\Caculator\\Caculator\\Form1.cs*",
-              "RelativeToolTip": "Caculator\\Form1.cs*",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAAwH4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T11:00:18.707Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -41,11 +27,29 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\C#\\Caculator\\Caculator\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\Caculator\\Caculator\\Form1.cs",
               "RelativeDocumentMoniker": "Caculator\\Form1.cs",
-              "ToolTip": "D:\\Programming\\C#\\Caculator\\Caculator\\Form1.cs [Design]*",
-              "RelativeToolTip": "Caculator\\Form1.cs [Design]*",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\Caculator\\Caculator\\Form1.cs",
+              "RelativeToolTip": "Caculator\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:00:18.707Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\Caculator\\Caculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Caculator\\Form1.cs",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\Caculator\\Caculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Caculator\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T11:01:00.007Z",
               "EditorCaption": " [Design]"

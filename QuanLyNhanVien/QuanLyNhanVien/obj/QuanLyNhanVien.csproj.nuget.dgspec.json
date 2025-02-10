@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C#\\QuanLyNhanVien\\QuanLyNhanVien\\QuanLyNhanVien.csproj": {}
+    "D:\\Programming\\CSharp-basic\\QuanLyNhanVien\\QuanLyNhanVien\\QuanLyNhanVien.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C#\\QuanLyNhanVien\\QuanLyNhanVien\\QuanLyNhanVien.csproj": {
+    "D:\\Programming\\CSharp-basic\\QuanLyNhanVien\\QuanLyNhanVien\\QuanLyNhanVien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C#\\QuanLyNhanVien\\QuanLyNhanVien\\QuanLyNhanVien.csproj",
+        "projectUniqueName": "D:\\Programming\\CSharp-basic\\QuanLyNhanVien\\QuanLyNhanVien\\QuanLyNhanVien.csproj",
         "projectName": "QuanLyNhanVien",
-        "projectPath": "D:\\Programming\\C#\\QuanLyNhanVien\\QuanLyNhanVien\\QuanLyNhanVien.csproj",
+        "projectPath": "D:\\Programming\\CSharp-basic\\QuanLyNhanVien\\QuanLyNhanVien\\QuanLyNhanVien.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C#\\QuanLyNhanVien\\QuanLyNhanVien\\obj\\",
+        "outputPath": "D:\\Programming\\CSharp-basic\\QuanLyNhanVien\\QuanLyNhanVien\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

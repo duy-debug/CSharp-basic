@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programming\\C#\\messagebox\\",
+  "WorkspaceRootPath": "D:\\Programming\\CSharp-basic\\messagebox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82B4D317-5BAB-474B-9D22-56936A2BF3D6}|messagebox\\messagebox.csproj|d:\\programming\\c#\\messagebox\\messagebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82B4D317-5BAB-474B-9D22-56936A2BF3D6}|messagebox\\messagebox.csproj|d:\\programming\\csharp-basic\\messagebox\\messagebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B4D317-5BAB-474B-9D22-56936A2BF3D6}|messagebox\\messagebox.csproj|solutionrelative:messagebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B4D317-5BAB-474B-9D22-56936A2BF3D6}|messagebox\\messagebox.csproj|d:\\programming\\c#\\messagebox\\messagebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{82B4D317-5BAB-474B-9D22-56936A2BF3D6}|messagebox\\messagebox.csproj|D:\\Programming\\CSharp-basic\\messagebox\\messagebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{82B4D317-5BAB-474B-9D22-56936A2BF3D6}|messagebox\\messagebox.csproj|solutionrelative:messagebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Programming\\C#\\messagebox\\messagebox\\Form1.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\messagebox\\messagebox\\Form1.cs",
               "RelativeDocumentMoniker": "messagebox\\Form1.cs",
-              "ToolTip": "D:\\Programming\\C#\\messagebox\\messagebox\\Form1.cs",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\messagebox\\messagebox\\Form1.cs",
               "RelativeToolTip": "messagebox\\Form1.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAhwCwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwCwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T04:03:36.451Z",
               "EditorCaption": ""
@@ -37,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\C#\\messagebox\\messagebox\\Form1.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\messagebox\\messagebox\\Form1.cs",
               "RelativeDocumentMoniker": "messagebox\\Form1.cs",
-              "ToolTip": "D:\\Programming\\C#\\messagebox\\messagebox\\Form1.cs [Design]",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\messagebox\\messagebox\\Form1.cs [Design]",
               "RelativeToolTip": "messagebox\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T04:01:08.922Z",

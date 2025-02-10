@@ -1,41 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programming\\C#\\project\\",
+  "WorkspaceRootPath": "D:\\Programming\\CSharp-basic\\project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|d:\\programming\\c#\\project\\project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|d:\\programming\\c#\\project\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|d:\\programming\\c#\\project\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|d:\\programming\\c#\\project\\project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|d:\\programming\\c#\\project\\project\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|d:\\programming\\c#\\project\\project\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|d:\\programming\\c#\\project\\project\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|D:\\Programming\\CSharp-basic\\project\\project\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|d:\\programming\\c#\\project\\project\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|D:\\Programming\\CSharp-basic\\project\\project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|d:\\programming\\csharp-basic\\project\\project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|D:\\Programming\\CSharp-basic\\project\\project\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|d:\\programming\\csharp-basic\\project\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|d:\\programming\\csharp-basic\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|D:\\Programming\\CSharp-basic\\project\\project\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|D:\\Programming\\CSharp-basic\\project\\project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|D:\\Programming\\CSharp-basic\\project\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|D:\\Programming\\CSharp-basic\\project\\project\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|d:\\programming\\c#\\project\\project\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|D:\\Programming\\CSharp-basic\\project\\project\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F82EE2-FE1E-499B-8208-DA33E330C5C3}|project\\project.csproj|solutionrelative:project\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,28 +54,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "D:\\Programming\\C#\\project\\project\\Admin.cs",
-              "RelativeDocumentMoniker": "project\\Admin.cs",
-              "ToolTip": "D:\\Programming\\C#\\project\\project\\Admin.cs",
-              "RelativeToolTip": "project\\Admin.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAWwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T14:08:31.327Z",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\project\\project\\App.config",
+              "RelativeDocumentMoniker": "project\\App.config",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\project\\project\\App.config",
+              "RelativeToolTip": "project\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-10T04:50:40.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Admin.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\C#\\project\\project\\Admin.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\project\\project\\Admin.cs",
               "RelativeDocumentMoniker": "project\\Admin.cs",
-              "ToolTip": "D:\\Programming\\C#\\project\\project\\Admin.cs [Design]",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\project\\project\\Admin.cs [Design]",
               "RelativeToolTip": "project\\Admin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T13:33:08.56Z",
@@ -75,24 +87,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TableManager.cs",
-              "DocumentMoniker": "D:\\Programming\\C#\\project\\project\\TableManager.cs",
-              "RelativeDocumentMoniker": "project\\TableManager.cs",
-              "ToolTip": "D:\\Programming\\C#\\project\\project\\TableManager.cs",
-              "RelativeToolTip": "project\\TableManager.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:48:50.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "TableManager.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\C#\\project\\project\\TableManager.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\project\\project\\TableManager.cs",
               "RelativeDocumentMoniker": "project\\TableManager.cs",
-              "ToolTip": "D:\\Programming\\C#\\project\\project\\TableManager.cs [Design]",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\project\\project\\TableManager.cs [Design]",
               "RelativeToolTip": "project\\TableManager.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T10:17:07.706Z",
@@ -100,23 +99,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccountProfile.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\C#\\project\\project\\AccountProfile.cs",
-              "RelativeDocumentMoniker": "project\\AccountProfile.cs",
-              "ToolTip": "D:\\Programming\\C#\\project\\project\\AccountProfile.cs [Design]",
-              "RelativeToolTip": "project\\AccountProfile.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:13:05.047Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "login.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\C#\\project\\project\\login.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\project\\project\\login.cs",
               "RelativeDocumentMoniker": "project\\login.cs",
-              "ToolTip": "D:\\Programming\\C#\\project\\project\\login.cs [Design]",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\project\\project\\login.cs [Design]",
               "RelativeToolTip": "project\\login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T09:59:11.516Z",
@@ -124,11 +111,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "AccountProfile.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\project\\project\\AccountProfile.cs",
+              "RelativeDocumentMoniker": "project\\AccountProfile.cs",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\project\\project\\AccountProfile.cs [Design]",
+              "RelativeToolTip": "project\\AccountProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:13:05.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\project\\project\\Program.cs",
+              "RelativeDocumentMoniker": "project\\Program.cs",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\project\\project\\Program.cs",
+              "RelativeToolTip": "project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T04:50:36.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TableManager.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\project\\project\\TableManager.cs",
+              "RelativeDocumentMoniker": "project\\TableManager.cs",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\project\\project\\TableManager.cs",
+              "RelativeToolTip": "project\\TableManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:48:50.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\project\\project\\Admin.cs",
+              "RelativeDocumentMoniker": "project\\Admin.cs",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\project\\project\\Admin.cs",
+              "RelativeToolTip": "project\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:08:31.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "login.cs",
-              "DocumentMoniker": "D:\\Programming\\C#\\project\\project\\login.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\project\\project\\login.cs",
               "RelativeDocumentMoniker": "project\\login.cs",
-              "ToolTip": "D:\\Programming\\C#\\project\\project\\login.cs",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\project\\project\\login.cs",
               "RelativeToolTip": "project\\login.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAIA3wBsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,11 +179,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AccountProfile.cs",
-              "DocumentMoniker": "D:\\Programming\\C#\\project\\project\\AccountProfile.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\project\\project\\AccountProfile.cs",
               "RelativeDocumentMoniker": "project\\AccountProfile.cs",
-              "ToolTip": "D:\\Programming\\C#\\project\\project\\AccountProfile.cs",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\project\\project\\AccountProfile.cs",
               "RelativeToolTip": "project\\AccountProfile.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIAwwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,11 +192,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "login.Designer.cs",
-              "DocumentMoniker": "D:\\Programming\\C#\\project\\project\\login.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp-basic\\project\\project\\login.Designer.cs",
               "RelativeDocumentMoniker": "project\\login.Designer.cs",
-              "ToolTip": "D:\\Programming\\C#\\project\\project\\login.Designer.cs",
+              "ToolTip": "D:\\Programming\\CSharp-basic\\project\\project\\login.Designer.cs",
               "RelativeToolTip": "project\\login.Designer.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -26,5 +26,10 @@ namespace project
         {
 
         }
+
+        private void tpFood_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
