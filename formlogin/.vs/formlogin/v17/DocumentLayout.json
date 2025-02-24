@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Programming\\CSharp-basic\\formlogin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39001D7B-D029-4682-B54C-124D73157DFF}|formlogin\\formlogin.csproj|d:\\programming\\csharp-basic\\formlogin\\formlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{39001D7B-D029-4682-B54C-124D73157DFF}|formlogin\\formlogin.csproj|solutionrelative:formlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39001D7B-D029-4682-B54C-124D73157DFF}|formlogin\\formlogin.csproj|D:\\Programming\\CSharp-basic\\formlogin\\formlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39001D7B-D029-4682-B54C-124D73157DFF}|formlogin\\formlogin.csproj|solutionrelative:formlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39001D7B-D029-4682-B54C-124D73157DFF}|formlogin\\formlogin.csproj|d:\\programming\\csharp-basic\\formlogin\\formlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39001D7B-D029-4682-B54C-124D73157DFF}|formlogin\\formlogin.csproj|solutionrelative:formlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39001D7B-D029-4682-B54C-124D73157DFF}|formlogin\\formlogin.csproj|D:\\Programming\\CSharp-basic\\formlogin\\formlogin\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,19 +26,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Programming\\CSharp-basic\\formlogin\\formlogin\\Form1.cs",
               "RelativeDocumentMoniker": "formlogin\\Form1.cs",
@@ -50,15 +54,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Programming\\CSharp-basic\\formlogin\\formlogin\\Form1.cs",
               "RelativeDocumentMoniker": "formlogin\\Form1.cs",
               "ToolTip": "D:\\Programming\\CSharp-basic\\formlogin\\formlogin\\Form1.cs",
               "RelativeToolTip": "formlogin\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T07:37:26.345Z"
+              "WhenOpened": "2025-01-25T07:37:26.345Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -70,7 +75,8 @@
               "RelativeToolTip": "formlogin\\Model\\user.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T07:37:01.335Z"
+              "WhenOpened": "2025-01-25T07:37:01.335Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -82,7 +88,8 @@
               "RelativeToolTip": "formlogin\\Model\\LoginDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T07:25:39.818Z"
+              "WhenOpened": "2025-01-25T07:25:39.818Z",
+              "EditorCaption": ""
             }
           ]
         }

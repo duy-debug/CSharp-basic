@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using formlogin.Model;
 using Azure.Identity;
+using System.Security.Cryptography;
 
 
 namespace formlogin
@@ -38,7 +39,7 @@ namespace formlogin
 
             user = _db.users.Find(username);
 
-            if (user != null && user.password == password)
+            if (user != null && user.password == HashPassword(password))
             {
                 MessageBox.Show("Đăng nhập thành công");
                 return;
@@ -49,7 +50,7 @@ namespace formlogin
                 return;
             }
         }
-
+        
         private void button2_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -58,6 +59,19 @@ namespace formlogin
         private void txbMatkhau_TextChanged(object sender, EventArgs e)
         {
 
+        }
+        private string HashPassword(string password)
+        {
+            using (SHA256 sha256 = SHA256.Create())
+            {
+                byte[] bytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(password));
+                StringBuilder builder = new StringBuilder();
+                foreach (byte b in bytes)
+                {
+                    builder.Append(b.ToString("x2"));
+                }
+                return builder.ToString();
+            }
         }
     }
 }
